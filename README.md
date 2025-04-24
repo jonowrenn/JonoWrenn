@@ -13,7 +13,7 @@
 ---
 
 ## 🌟 Skills & Tools
-- **Languages:** Python, Java, Javascript
+- **Languages:** Python, Java, Javascript, SQL, HTML, CSS
 - **Technologies:** TensorFlow, AWS, Git
 - **Interests:** AI/ML, software engineering, and system design
 
