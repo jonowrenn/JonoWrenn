@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan Wrenn 👋
 
-🎓 **CS & Math @ Columbia University** (Class of 2026)
+🎓 **CS @ Columbia University** (Class of 2026)
 💻 **Software Engineer / ML Engineer Intern**
 🚀 **Interested in AI, full-stack development, and building tools people actually use**
 
