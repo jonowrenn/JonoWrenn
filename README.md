@@ -12,7 +12,7 @@
 |---|---|---|
 | [📸 screenshot-to-ai](https://github.com/jonowrenn/screenshot-to-ai) | macOS menu bar app that auto-pastes screenshots into Claude or ChatGPT | Python, PyObjC, macOS |
 | [🌤 WeatherApp](https://github.com/jonowrenn/WeatherApp) | Responsive weather dashboard with live search, geolocation, 5-day forecast, and condition-based themes | React, OpenWeather API |
-| [💬 CS Study Assistant](https://github.com/jonowrenn/GPTChatbot) | Multi-turn chatbot with 6 expert modes (Code Review, ML Theory, Interview Prep, etc.), deployed on Hugging Face Spaces | Python, Gradio, GPT-4o mini |
+| [💬 CS Study Assistant](https://github.com/jonowrenn/cs-study-assistant) | Multi-turn chatbot with 6 expert modes (Code Review, ML Theory, Interview Prep, etc.), deployed on Hugging Face Spaces | Python, Gradio, GPT-4o mini |
 | [📉 MLStockPredictor](https://github.com/jonowrenn/MLStockPredictor) | LSTM model predicting AAPL closing prices from 60-day sequences | TensorFlow/Keras, yfinance |
 | [🔬 QCLFiltering](https://github.com/jonowrenn/QCLFiltering) | Data filtering & visualization tool for quantum cascade laser research | Python, pandas, matplotlib |
 
